@@ -1,0 +1,13 @@
+mystery_movies = {fifteen_minutes : {characters: ["EDDIE", "JORDY",
+"ROBERT HAWKINS", "LEON", "NICOLETTE"],
+villain: ["EMIL", "OLEG"], year:"2001"}, alien_nation :
+{characters: ["SYKES", "JETSON", "HARCOURT", "KIPLING", "CASSANDRA"],
+villain: ["HARCOURT"], year:"1988"}, bad_lieutenant: {characters: ["LT", "BET COP"
+, "JERSEY GIRL", "GIRL", "JC"], villain: ["JULIO","PAOLO"], year:"1992"}, basic_instinct:
+{characters: ["NICK", "CATHERINE", "GUS", "BETH", "LT. WALKER"], villain: ["CATHERINE"],
+year:"1992"}, the_black_dahlia: {characters: ["BUCKY", "KAY", "LEE", "MADELEINE",
+"ELIZABETH SHORT"], villain: ["RAMONA", "MADELEINE"], year:"2006"}, blue_velvet: {
+characters: ["DOROTHY", "JEFFREY", "FRANK", "SANDY", "MRS. WILLIAMS"],
+villain: ["FRANK","YELLOW MAN"], year:"1986"}, boondocks_saints_2_all_saints_day: {
+characters: ["CONNOR", "MURPHY", "ROMEO", "NOAH", "SIBEAL"], villain: ["LOUIE"],
+year:"2009"}}
