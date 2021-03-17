@@ -17,5 +17,14 @@
 "manhunter_dialog.txt" : {"characters":["GRAHAM", "MOLLY", "REBA", "LECKTOR", "CRAWFORD"], "villain": "DOLLARHYDE", "year":"1984"},
 "klute_dialog.txt" : {"characters":["BREE", "KLUTE", "TRASK", "FRANK", "ARLYN"], "villain": "CABLE", "year":"1971"},
 "americangangster_dialog.txt" : {"characters":["RICHIE", "LAURIE", "TRUPO", "RIVERA", "TOBACK"], "villain": "FRANK", "year":"2007"},
-"affliction_dialog.txt" : {"characters":["RICHIE", "LAURIE", "TRUPO", "RIVERA", "TOBACK"], "villain": "FRANK", "year":"2007"}
+"backdraft_dialog.txt":{"characters":["STEPHEN", "BRIAN", “SWAYZAK”, “SHADOW”, “RICCO”], "villain": "AXE", “year”:1991},
+"bluevelvet_dialog.txt" : {"characters":["JEFFREY", "SANDY", "DETECTIVE WILLIAMS", "DOROTHY", "YELLOW MAN"], "villain": "FRANK", "year":1986},
+"brick_dialog.txt" : {"characters":["BRENDAN", "EMILY", "THE BRAIN", "PIN"], "villain": ["LAURA", “TUGGER”], "year":2005},
+"charade_dialog.txt" : {"characters":["REGGIE", "SYLVIE", "CHARLES", "CRUIKSHANK”, “ADAM”], "villain": ["BARTHOLOMEW",”CARSON”], "year":1963},
+"copycat_dialog.txt" : {"characters":["HELEN", "SUSAN", "M.J.", "RUBEN", "SAKS"], "villain": "PETER", "year":1995},
+"fridaythe13th_dialog.txt" : {"characters":["JACK", "BILL", "ALICE", "NED", "MARCIE"], "villain": "MRS. VOORHEES", "year":1980},
+"jennifereight_dialog.txt" : {"characters":["BERLIN", "St ANNE", "HELENA", "ROSS", “MARGIE”], "villain": "TAYLOR", "year":1992},
+"manhattanmurdermystery_dialog.txt" : {"characters":["LARRY", "CAROL", "LILLIAN", "HELEN", “MARCIA”, “TED”], "villain": "PAUL", "year":1993},
+"sherlockholmes_dialog.txt" : {"characters":["HOLMES", "WATSON", "LESTRADE", "MARY", "DREDGER"], "villain": [“IRENE”, “MORIARTY”], "year":2008}
 }
+
