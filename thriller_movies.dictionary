@@ -5,5 +5,4 @@
 {"breakdown_dialog.txt":{"title" : "Breakdown", "characters":["JEFF","RED","AMY","EARL","BILLY"], "villain": ["RED"], “year”:1997},
 {"cellular_dialog.txt":{"title" : "Cellular", "characters":["JESSICA","RYAN","MARILYN","CHLOE","CRAIG"], "villain": ["ETHAN"], “year”:2004},
 {"entrapment_dialog.txt":{"title" : "Entrapment", "characters":["MAC","GIN","CRUZ","CARLSBY","OKATI"], "villain": ["MAC"], “year”:1999},
-{"kalifornia_dialog.txt":{"title" : "Kalifornia", "characters":["EARLY","BRIAN","CARRIE","ADELE","CAROL"], "villain": ["EARLY"], “year”:1993},
-{"kalifornia_dialog.txt":{"title" : "Kalifornia", "characters":["EARLY","BRIAN","CARRIE","ADELE","CAROL"], "villain": ["EARLY"], “year”:1993},
+{"kalifornia_dialog.txt":{"title" : "Kalifornia", "characters":["EARLY","BRIAN","CARRIE","ADELE","CAROL"], "villain": ["EARLY"], “year”:1993}
