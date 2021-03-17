@@ -18,4 +18,4 @@ crank: {characters:["CHELIOS","EVE","VERONA","CARLITO","DOC MILES"],villain:["VE
 villain: ["STRACK"],year:1990},devil_in_a_blue_dress : {characters:["EASY","ALBRIGHT","DAPHNE","MOURSE","TERAN"],villain:["ALBRIGHT"],year:1995},
 fracture: {characters:["CRAWFORD","WILLY","LOBRUTO","GARDNER","CRAWFORD"],villain:"CRAWFORD",year:2007},
 the_french_connection : {characters:["DOYLE","CHARNIER","RUSSO","BOCA","NICOLI"],villain:["CHARNIER"],year:1971}, get_carter : {characters:["JACK","ERIC","KINNEAR","ANNA","BRUMBY"],
-villain:["ERIC"],year:1971}}
+villain:["ERIC"],year:1971}, girl_with_the_dragon_tattoo : {characters:["BLOMKVIST","SALANDER","VANGER","MARTIN","FRODE"],villain:["MARTIN"],year:2011}}
