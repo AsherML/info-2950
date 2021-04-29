@@ -1,0 +1,21 @@
+mystery_movies = {fifteen_minutes : {characters: ["EDDIE", "JORDY",
+"ROBERT HAWKINS", "LEON", "NICOLETTE"],
+villain: ["EMIL", "OLEG"], year: 2001}, alien_nation :
+{characters: ["SYKES", "JETSON", "HARCOURT", "KIPLING", "CASSANDRA"],
+villain: ["HARCOURT"], year:1988}, bad_lieutenant: {characters: ["LT", "BET COP"
+, "JERSEY GIRL", "GIRL", "JC"], villain: ["JULIO","PAOLO"], year:1992}, basic_instinct:
+{characters: ["NICK", "CATHERINE", "GUS", "BETH", "LT. WALKER"], villain: ["CATHERINE"],
+year:1992}, the_black_dahlia: {characters: ["BUCKY", "KAY", "LEE", "MADELEINE",
+"ELIZABETH SHORT"], villain: ["RAMONA", "MADELEINE"], year:2006}, blue_velvet: {
+characters: ["DOROTHY", "JEFFREY", "FRANK", "SANDY", "MRS. WILLIAMS"],
+villain: ["FRANK","YELLOW MAN"], year:1986}, boondocks_saints_2_all_saints_day: {
+characters: ["CONNOR", "MURPHY", "ROMEO", "NOAH", "SIBEAL"], villain: ["LOUIE"],
+year:2009}, changeling : {characters: ["CHRISTINE","REV. BRIEGLEB",
+"JONES","YBARRA","DAVIS"], villain: ["GORDON"], year:2008}, chaos : {characters: ["CONNERS", "DEKKER", "YORK", "LORENZ", "JENKINS"],
+villain: ["CONNERS","YORK"],year:2005}, chinatown : {characters:["GITTES","MRS. MULWRAY","CROSS","ESCOBAR","YELBURTON"],
+villain: ["CROSS"], year:1974}, copycat : {characters:["HELEN","M.J.","RUBEN","DARYLL LEE","PETER"],villain:["DARYLL LEE","PETER"],year:1995},
+crank: {characters:["CHELIOS","EVE","VERONA","CARLITO","DOC MILES"],villain:["VERONA"],year=2006},darkman : {characters: ["PEYTON","DARKMAN","JULIE","STRACK","DURANT"],
+villain: ["STRACK"],year:1990},devil_in_a_blue_dress : {characters:["EASY","ALBRIGHT","DAPHNE","MOURSE","TERAN"],villain:["ALBRIGHT"],year:1995},
+fracture: {characters:["CRAWFORD","WILLY","LOBRUTO","GARDNER","CRAWFORD"],villain:"CRAWFORD",year:2007},
+the_french_connection : {characters:["DOYLE","CHARNIER","RUSSO","BOCA","NICOLI"],villain:["CHARNIER"],year:1971}, get_carter : {characters:["JACK","ERIC","KINNEAR","ANNA","BRUMBY"],
+villain:["ERIC"],year:1971}, girl_with_the_dragon_tattoo : {characters:["BLOMKVIST","SALANDER","VANGER","MARTIN","FRODE"],villain:["MARTIN"],year:2011}}
